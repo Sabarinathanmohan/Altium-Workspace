@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J4-1
+Removed Pin From Net: NetName=NetC11_1 Pin=JP3-3
+Removed Pin From Net: NetName=+5V Pin=JP4-1
+Removed Pin From Net: NetName=+3V3 Pin=JP4-3
+Removed Pin From Net: NetName=16U2_16MHZ_XTAL1 Pin=Y1-1
+Removed Pin From Net: NetName=16U2_16MHZ_XTAL2 Pin=Y1-2
+Removed Pin From Net: NetName=328P_16MHZ_XTAL2 Pin=Y2-1
+Added Pin To Net: NetName=NetC11_1 Pin=JP3-1
+Added Pin To Net: NetName=+3V3 Pin=JP4-1
+Added Pin To Net: NetName=+5V Pin=JP4-3
+Added Pin To Net: NetName=16U2_16MHZ_XTAL1 Pin=Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-
+Add Pin To Net: Unknown Pin: Pin Y2-
+Added Pin To Net: NetName=NetJP3_3 Pin=JP3-3
+Added Pin To Net: NetName=NetJP3_3 Pin=R15-2
+Added Net: Name=NetJP3_3
