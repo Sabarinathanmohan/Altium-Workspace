@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=BUTTON RESETn Pin=R24-1
+Removed Pin From Net: NetName=+5V/3V3 Pin=R24-2
+Change Component Designator: OldDesignator=C19 NewDesignator=C21
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP3
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Added Component: Designator=R23(CHIP RES_0603_1608)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0805fr-0710kl/yageo?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0805FR-0710KL?qs=7bY8808IzHq6vrU3BeiiYw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BUTTON RESETn Pin=R23-1
+Added Pin To Net: NetName=+5V/3V3 Pin=R23-2
+Add Pin To Net: Unknown Pin: Pin Y1-
+Add Pin To Net: Unknown Pin: Pin Y2-
+Change Net Name : Old Net Name=NetJP3_3 New Net Name=NetJP4_3

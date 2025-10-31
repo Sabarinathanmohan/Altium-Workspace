@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for arduino_uno
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -328,6 +328,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for arduino_uno\BOM\arduino BOM purchasing-arduino_uno.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for arduino_uno\Design Rule Check - 28Pins_prjct_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -337,6 +341,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for arduino_uno
 
 [OutputGroup1]
 Name=Netlist Outputs
