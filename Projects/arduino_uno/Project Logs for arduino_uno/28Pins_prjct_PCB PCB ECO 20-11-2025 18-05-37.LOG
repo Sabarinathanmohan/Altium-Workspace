@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=+3V3 16U2 UCAP Pin=C5-
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=+5V/3V3 Pin=FB2-2
+Removed Pin From Net: NetName=+5V/3V3 Pin=FB3-2
+Removed Pin From Net: NetName=+5V_USB Pin=J2-1
+Removed Pin From Net: NetName=CON_USB_N Pin=J2-2
+Removed Pin From Net: NetName=CON_USB_P Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-6
+Removed Pin From Net: NetName=GND Pin=J2-7
+Removed Pin From Net: NetName=GND Pin=J2-8
+Removed Pin From Net: NetName=GND Pin=J2-9
+Removed Pin From Net: NetName=GND Pin=J2-10
+Removed Pin From Net: NetName=GND Pin=J2-11
+Removed Pin From Net: NetName=+5V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J4-1
+Removed Pin From Net: NetName=GND Pin=MH1-1
+Removed Pin From Net: NetName=GND Pin=MH2-1
+Removed Pin From Net: NetName=GND Pin=MH3-1
+Removed Pin From Net: NetName=GND Pin=MH4-1
+Removed Pin From Net: NetName=+5V/3V3 Pin=R21-2
+Removed Pin From Net: NetName=USER_BUTTON Pin=SW1-1
+Removed Pin From Net: NetName=USER_BUTTON Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=BUTTON RESETn Pin=SW2-1
+Removed Pin From Net: NetName=BUTTON RESETn Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=+5V/3V3 Pin=U4-5
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=+5V/3V3 Pin=U5-5
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=328P_RESETn Pin=U6-4
+Removed Pin From Net: NetName=+5V/3V3 Pin=U6-5
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=16U2 RESETn Pin=U7-4
+Removed Pin From Net: NetName=+5V/3V3 Pin=U7-5
+Removed Pin From Net: NetName=16U2_16MHZ_XTAL2 Pin=Y1-1
+Removed Pin From Net: NetName=328P_16MHZ_XTAL2 Pin=Y2-1
+Add Pin To Net: Unknown Pin: Pin C5-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=USER_BUTTON Pin=SW1-3
+Added Pin To Net: NetName=USER_BUTTON Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=BUTTON RESETn Pin=SW2-3
+Added Pin To Net: NetName=BUTTON RESETn Pin=SW2-4
+Add Pin To Net: Unknown Pin: Pin Y1-
+Add Pin To Net: Unknown Pin: Pin Y2-
+Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 156, 202) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 156, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(51, 0, 142) New Net Color=Default
