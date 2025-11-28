@@ -15,9 +15,20 @@ This repository includes:
 ---
 
 ## 📁 Repository Structure
-
-/ProjectName ├── Schematic/ │    └── *.SchDoc ├── PCB/ │    └── *.PcbDoc ├── Library/ │    ├── Components │    └── Footprints ├── Outputs/ │    ├── Gerber/ │    ├── Drill/ │    └── Assembly/ └── README.md
-
+```text
+Project/
+├── Schematic/
+│   └── *.SchDoc
+├── PCB/
+│   └── *.PcbDoc
+├── Library/
+│   ├── Components/
+│   └── Footprints/
+├── Outputs/
+│   ├── Gerber/
+│   ├── Drill/
+│   └── Assembly/
+└── README.md
 ---
 
 ## 🛠️ Tools Used
@@ -30,7 +41,7 @@ This repository includes:
 ## 📦 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Altium-Workspace.git
+   git clone https://github.com/Sabarinathanmohan/Altium-Workspace.git
 
 2. Open the .PrjPcb file in Altium Designer.
 
