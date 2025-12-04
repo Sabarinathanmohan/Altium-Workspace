@@ -165,7 +165,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DXAJKJXM
 
 [Document8]
 DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Resistor - Chip\PCB - RESISTOR - CHIP - YAGEO RES 0603_1608.PCBLIB
@@ -199,7 +199,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GJELMDTK
 
 [Document10]
 DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0805_2012 RF.PCBLIB
@@ -305,6 +305,23 @@ DocumentUniqueId=
 
 [Document16]
 DocumentPath=Footprints\Connector - 3M\PCB - CONNECTOR - 3M - 3M TEXTOOL ZIF SIL-20 220-2600-00-0602.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MYESFEAH
+
+[Document17]
+DocumentPath=SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
