@@ -131,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BYKLPYRT
 
 [Document6]
 DocumentPath=arduino_uno.OutJob
@@ -182,7 +182,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IJLJCFNG
 
 [Document9]
 DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB
@@ -216,7 +216,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BTHYMTOF
 
 [Document11]
 DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Capacitor - MLCC\PCB - CAPACITOR - MLCC - CAP 0805_2012.PCBLIB
@@ -233,7 +233,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JPLXECUF
 
 [Document12]
 DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\LED\PCB - LED - LED 0603_1608 GREEN.PCBLIB
@@ -267,7 +267,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IOVYWBGM
 
 [Document14]
 DocumentPath=Footprints\Ferrite - Chip\PCB - FERRITE - CHIP - FER 0805_2012.PCBLIB
@@ -284,7 +284,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FLHUGHFM
 
 [Document15]
 DocumentPath=Footprints\Diodes\PCB - DIODES - SOD323.PCBLIB
@@ -301,26 +301,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AQKCRYDB
 
 [Document16]
-DocumentPath=Footprints\Connector - 3M\PCB - CONNECTOR - 3M - 3M TEXTOOL ZIF SIL-20 220-2600-00-0602.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MYESFEAH
-
-[Document17]
 DocumentPath=SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -335,7 +318,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MPRJBCLL
 
 [GeneratedDocument1]
 DocumentPath=28Pins_prjct.cmp
@@ -348,6 +331,14 @@ DItemRevisionGUID=
 [GeneratedDocument3]
 DocumentPath=Project Outputs for arduino_uno\Design Rule Check - 28Pins_prjct_PCB.html
 DItemRevisionGUID=
+
+[Parameter1]
+Name=VariantName
+Value=(No variations)
+
+[Parameter2]
+Name=VersionRevision
+Value=V1
 
 [Configuration1]
 Name=Sources
