@@ -1,12 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\STL\Desktop\Sabari\Altium-Workspace\Projects\arduino_uno\28Pins_prjct_PCB.PcbDoc
-Date     : 21-11-2025
-Time     : 12:01:32
+Date     : 08-12-2025
+Time     : 15:08:08
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad MH4-1(15.24mm,50.8mm) on Multi-Layer on Net GND
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (IsRegion),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -18,7 +21,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.3mm) (Max=0.5mm) (Preferred=0.3mm) (All)
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.5mm) (Preferred=0.3mm) (All)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.4mm) (Max=4mm) (Preferred=0.4mm) (InNet('+*') or InNet('GND'))
@@ -43,8 +46,7 @@ Processing Rule : Pads and Vias to follow the Drill pairs settings
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0.3mm) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (Collision < 0.3mm) Between Pad MH4-1(15.24mm,50.8mm) on Multi-Layer And Via (15.24mm,50.8mm) from L1 to L2 Pad/Via Touching Holes
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.049mm) (All),(All)
 Rule Violations :0
@@ -64,16 +66,10 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('J7')),(InComponent('MH4')) 
-Rule Violations :0
-
-Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('J8')),(InComponent('MH2')) 
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('FID1')),(InComponent('MH4')) 
 Rule Violations :0
 
 Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.2mm, Vertical Gap = 0.2mm ) (All),(All) 
-Rule Violations :0
-
-Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('FID1')),(InComponent('MH4')) 
 Rule Violations :0
 
 Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('SCKT FOR U1')),(InComponent('U3')) 
@@ -82,11 +78,17 @@ Rule Violations :0
 Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('R13')),(InComponent('R14')) 
 Rule Violations :0
 
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('J7')),(InComponent('MH4')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('J8')),(InComponent('MH2')) 
+Rule Violations :0
+
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
 PCB Health Issues : 0
 Time Elapsed        : 00:00:03
