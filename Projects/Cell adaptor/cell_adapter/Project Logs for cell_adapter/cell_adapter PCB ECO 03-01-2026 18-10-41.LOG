@@ -1,0 +1,176 @@
+Added Component: Designator=B1(Li-BATTERY)
+Added Component: Designator=B2(Li-BATTERY)
+Added Component: Designator=B3(Li-BATTERY)
+Added Component: Designator=B4(Li-BATTERY)
+Added Component: Designator=B5(Li-BATTERY)
+Added Component: Designator=B6(Li-BATTERY)
+Added Component: Designator=B7(Li-BATTERY)
+Added Component: Designator=B8(Li-BATTERY)
+Added Component: Designator=B9(Li-BATTERY)
+Added Component: Designator=B10(Li-BATTERY)
+Added Component: Designator=B11(Li-BATTERY)
+Added Component: Designator=B12(Li-BATTERY)
+Added Component: Designator=FID1(FIDUCIAL)
+Added Component: Designator=FID2(FIDUCIAL)
+Added Component: Designator=FID3(FIDUCIAL)
+Added Component: Designator=J1(MICROFIT 36 VER)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/en-us/products/part-detail-pdf/559173610?display=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0559173610"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(MINIFIT JR 6 VER)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/462070004_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "46207-0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-46207-0006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/46207-0006?qs=MV7SBVuOwbvn%2FGgrpMRZKA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(MINIFIT JR 8 VER)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/462070004_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "46207-0008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-46207-0008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/46207-0008?qs=MV7SBVuOwbvtKebxd4vmug%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LB1(FIDUCIAL)
+Added Component: Designator=NTC1(NTC0805-HC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ntcs0805e3103flt/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/29044/ntcs0805e3t.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/NTCS0805E3103FLT?qs=%2FWiulJ9oly4Pd4lidS66Yw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=NTC2(NTC0805-HC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ntcs0805e3103flt/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/29044/ntcs0805e3t.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/NTCS0805E3103FLT?qs=%2FWiulJ9oly4Pd4lidS66Yw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=NTC3(NTC0805-HC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ntcs0805e3103flt/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/29044/ntcs0805e3t.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/NTCS0805E3103FLT?qs=%2FWiulJ9oly4Pd4lidS66Yw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=NTC4(NTC0805-HC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ntcs0805e3103flt/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/29044/ntcs0805e3t.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/NTCS0805E3103FLT?qs=%2FWiulJ9oly4Pd4lidS66Yw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=NTC5(NTC0805-HC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ntcs0805e3103flt/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/29044/ntcs0805e3t.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/NTCS0805E3103FLT?qs=%2FWiulJ9oly4Pd4lidS66Yw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=NTC6(NTC0805-HC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ntcs0805e3103flt/vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/29044/ntcs0805e3t.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "594-NTCS0805E3103FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/NTCS0805E3103FLT?qs=%2FWiulJ9oly4Pd4lidS66Yw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B12+ PWR Pin=B1-1
+Added Pin To Net: NetName=B11+ Pin=B1-2
+Added Pin To Net: NetName=B11+ Pin=B2-1
+Added Pin To Net: NetName=B10+ Pin=B2-2
+Added Pin To Net: NetName=B10+ Pin=B3-1
+Added Pin To Net: NetName=B9+ Pin=B3-2
+Added Pin To Net: NetName=B9+ Pin=B4-1
+Added Pin To Net: NetName=B8+ Pin=B4-2
+Added Pin To Net: NetName=B8+ Pin=B5-1
+Added Pin To Net: NetName=B7+ Pin=B5-2
+Added Pin To Net: NetName=B7+ Pin=B6-1
+Added Pin To Net: NetName=B6+ Pin=B6-2
+Added Pin To Net: NetName=B6+ Pin=B7-1
+Added Pin To Net: NetName=B5+ Pin=B7-2
+Added Pin To Net: NetName=B5+ Pin=B8-1
+Added Pin To Net: NetName=B4+ Pin=B8-2
+Added Pin To Net: NetName=B4+ Pin=B9-1
+Added Pin To Net: NetName=B3+ Pin=B9-2
+Added Pin To Net: NetName=B3+ Pin=B10-1
+Added Pin To Net: NetName=B2+ Pin=B10-2
+Added Pin To Net: NetName=B2+ Pin=B11-1
+Added Pin To Net: NetName=B1+ Pin=B11-2
+Added Pin To Net: NetName=B1+ Pin=B12-1
+Added Pin To Net: NetName=B1- GND Pin=B12-2
+Added Pin To Net: NetName=B12+ PWR Pin=J1-1
+Added Pin To Net: NetName=B11+ Pin=J1-2
+Added Pin To Net: NetName=B9+ Pin=J1-3
+Added Pin To Net: NetName=B7+ Pin=J1-4
+Added Pin To Net: NetName=NTC 6 Pin=J1-8
+Added Pin To Net: NetName=NTC 5 Pin=J1-9
+Added Pin To Net: NetName=NTC 4 Pin=J1-10
+Added Pin To Net: NetName=NTC 3 Pin=J1-11
+Added Pin To Net: NetName=NTC 2 Pin=J1-12
+Added Pin To Net: NetName=NTC 1 Pin=J1-13
+Added Pin To Net: NetName=B1- GND Pin=J1-15
+Added Pin To Net: NetName=B2+ Pin=J1-16
+Added Pin To Net: NetName=B3+ Pin=J1-17
+Added Pin To Net: NetName=B5+ Pin=J1-18
+Added Pin To Net: NetName=B12+ Pin=J1-19
+Added Pin To Net: NetName=B10+ Pin=J1-20
+Added Pin To Net: NetName=B8+ Pin=J1-21
+Added Pin To Net: NetName=GND NTC 6 Pin=J1-26
+Added Pin To Net: NetName=GND NTC 5 Pin=J1-27
+Added Pin To Net: NetName=GND NTC 4 Pin=J1-28
+Added Pin To Net: NetName=GND NTC 3 Pin=J1-29
+Added Pin To Net: NetName=GND NTC 2 Pin=J1-30
+Added Pin To Net: NetName=GND NTC 1 Pin=J1-31
+Added Pin To Net: NetName=B1- Pin=J1-33
+Added Pin To Net: NetName=B1+ Pin=J1-34
+Added Pin To Net: NetName=B4+ Pin=J1-35
+Added Pin To Net: NetName=B6+ Pin=J1-36
+Added Pin To Net: NetName=B1- Pin=J2-1
+Added Pin To Net: NetName=B2+ Pin=J2-2
+Added Pin To Net: NetName=B4+ Pin=J2-3
+Added Pin To Net: NetName=B1+ Pin=J2-4
+Added Pin To Net: NetName=B3+ Pin=J2-5
+Added Pin To Net: NetName=B5+ Pin=J2-6
+Added Pin To Net: NetName=B6+ Pin=J3-1
+Added Pin To Net: NetName=B8+ Pin=J3-2
+Added Pin To Net: NetName=B10+ Pin=J3-3
+Added Pin To Net: NetName=B12+ Pin=J3-4
+Added Pin To Net: NetName=B7+ Pin=J3-5
+Added Pin To Net: NetName=B9+ Pin=J3-6
+Added Pin To Net: NetName=B11+ Pin=J3-7
+Added Pin To Net: NetName=NTC 1 Pin=NTC1-1
+Added Pin To Net: NetName=GND NTC 1 Pin=NTC1-2
+Added Pin To Net: NetName=NTC 2 Pin=NTC2-1
+Added Pin To Net: NetName=GND NTC 2 Pin=NTC2-2
+Added Pin To Net: NetName=NTC 3 Pin=NTC3-1
+Added Pin To Net: NetName=GND NTC 3 Pin=NTC3-2
+Added Pin To Net: NetName=NTC 4 Pin=NTC4-1
+Added Pin To Net: NetName=GND NTC 4 Pin=NTC4-2
+Added Pin To Net: NetName=NTC 5 Pin=NTC5-1
+Added Pin To Net: NetName=GND NTC 5 Pin=NTC5-2
+Added Pin To Net: NetName=NTC 6 Pin=NTC6-1
+Added Pin To Net: NetName=GND NTC 6 Pin=NTC6-2
+Change Net Color : Old Net Color=RGB(231, 236, 115) New Net Color=Default
+Added Class: Name=cell_adapter
+Added Room: Name=cell_adapter
