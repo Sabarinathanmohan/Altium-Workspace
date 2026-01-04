@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=B1- Pin=J2-1
+Removed Pin From Net: NetName=B2+ Pin=J2-2
+Removed Pin From Net: NetName=B4+ Pin=J2-3
+Removed Pin From Net: NetName=B1+ Pin=J2-4
+Removed Pin From Net: NetName=B3+ Pin=J2-5
+Removed Pin From Net: NetName=B5+ Pin=J2-6
+Removed Pin From Net: NetName=B6+ Pin=J3-1
+Removed Pin From Net: NetName=B8+ Pin=J3-2
+Removed Pin From Net: NetName=B10+ Pin=J3-3
+Removed Pin From Net: NetName=B12+ Pin=J3-4
+Removed Pin From Net: NetName=B7+ Pin=J3-5
+Removed Pin From Net: NetName=B9+ Pin=J3-6
+Removed Pin From Net: NetName=B11+ Pin=J3-7
+Added Pin To Net: NetName=B12+ Pin=B1-1
+Added Pin To Net: NetName=B1- Pin=B12-2
+Added Pin To Net: NetName=B12+ Pin=J1-1
+Added Pin To Net: NetName=B1- Pin=J1-15
+Added Class: Name=cell_adapter
