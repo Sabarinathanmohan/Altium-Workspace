@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: cell_adapter.PcbDoc   05-01-2026  17:33:27
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : cell_adapter-RoundHoles.TXT
+ASCII SlotHoles File : cell_adapter-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             9         PTH        413.85mm (16.29inch)
+T2      0.5mm (20mil)                                             Round             1488      PTH        5189.83mm (204.32inch)
+T3      0.711mm (28mil)                                           Round             35        PTH        1117.22mm (43.99inch)
+T4      0.8mm (31mil)                                             Round             36        PTH        76.00mm (2.99inch)
+T5      6.6mm (260mil)                                            Slot              24        PTH        2800.74mm (110.27inch)
+T6      7mm (276mil)                                              Round             12        PTH        445.50mm (17.54inch)
+T7      1.3mm (51mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1605
+
+Total Processing Time (hh:mm:ss) : 00:00:00

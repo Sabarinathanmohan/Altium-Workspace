@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+C:\Users\STL\Desktop\Sabari\Altium-Workspace\Projects\Cell adaptor\cell_adapter\Project Outputs for cell_adapter\Pick Place\Pick Place for cell_adapter.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05-01-26
+Time:       17:33
+Revision:   f0a0f626236d4c89aea216cb78152eb7cb24de00
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"NTC6","10k","TopLayer","NTC0805-HC","6,0000","81,8730","180","THERMISTOR NTC 10KOHM 3430K 0805"
+"NTC5","10k","TopLayer","NTC0805-HC","87,0000","81,8730","180","THERMISTOR NTC 10KOHM 3430K 0805"
+"NTC4","10k","TopLayer","NTC0805-HC","168,0000","81,8730","180","THERMISTOR NTC 10KOHM 3430K 0805"
+"NTC3","10k","TopLayer","NTC0805-HC","249,0000","81,8730","180","THERMISTOR NTC 10KOHM 3430K 0805"
+"NTC2","10k","TopLayer","NTC0805-HC","330,0000","81,8730","180","THERMISTOR NTC 10KOHM 3430K 0805"
+"NTC1","10k","TopLayer","NTC0805-HC","411,0000","81,8730","180","THERMISTOR NTC 10KOHM 3430K 0805"
+"LB1","PE PAD","TopLayer","FIDUCIAL","5,0000","105,0000","0","FIDUCIAL"
+"J1","0559173610","TopLayer","MICROFIT_36_VER","502,0000","55,5000","270","CONN HEADER VERT 36POS 2MM"
+"FID3","PE PAD","TopLayer","FIDUCIAL","481,0000","105,0000","90","FIDUCIAL"
+"FID2","PE PAD","TopLayer","FIDUCIAL","481,0000","5,0000","90","FIDUCIAL"
+"FID1","PE PAD","TopLayer","FIDUCIAL","4,5000","5,0000","0","FIDUCIAL"
+"B12","LIBAT","TopLayer","LI-BATTERY","465,7500","55,0000","180",""
+"B11","LIBAT","TopLayer","LI-BATTERY","425,2500","55,0000","0",""
+"B10","LIBAT","TopLayer","LI-BATTERY","384,7500","55,0000","180",""
+"B9","LIBAT","TopLayer","LI-BATTERY","344,2500","55,0000","0",""
+"B8","LIBAT","TopLayer","LI-BATTERY","303,7500","55,0000","180",""
+"B7","LIBAT","TopLayer","LI-BATTERY","263,2500","55,0000","0",""
+"B6","LIBAT","TopLayer","LI-BATTERY","222,7500","55,0000","180",""
+"B5","LIBAT","TopLayer","LI-BATTERY","182,2500","55,0000","0",""
+"B4","LIBAT","TopLayer","LI-BATTERY","141,7500","55,0000","180",""
+"B3","LIBAT","TopLayer","LI-BATTERY","101,2500","55,0000","0",""
+"B2","LIBAT","TopLayer","LI-BATTERY","60,7500","55,0000","180",""
+"B1","LIBAT","TopLayer","LI-BATTERY","20,2500","55,0000","0",""
