@@ -151,125 +151,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Resistor - Chip\PCB - RESISTOR - CHIP - YAGEO RES 0805_2012.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DXAJKJXM
-
-[Document8]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Resistor - Chip\PCB - RESISTOR - CHIP - YAGEO RES 0603_1608.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IJLJCFNG
-
-[Document9]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0603_1608.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GJELMDTK
-
-[Document10]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Resistor - Chip\PCB - RESISTOR - CHIP - RES 0805_2012 RF.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BTHYMTOF
-
-[Document11]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Capacitor - MLCC\PCB - CAPACITOR - MLCC - CAP 0805_2012.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JPLXECUF
-
-[Document12]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\LED\PCB - LED - LED 0603_1608 GREEN.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
-DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\Projects\arduino_uno\Footprints\Connector - USB\PCB - CONNECTOR - USB - FCI USB 10118193-0001LF.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IOVYWBGM
-
-[Document14]
 DocumentPath=Footprints\Ferrite - Chip\PCB - FERRITE - CHIP - FER 0805_2012.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FLHUGHFM
 
-[Document15]
+[Document8]
 DocumentPath=Footprints\Diodes\PCB - DIODES - SOD323.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQKCRYDB
 
-[Document16]
+[Document9]
 DocumentPath=SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
